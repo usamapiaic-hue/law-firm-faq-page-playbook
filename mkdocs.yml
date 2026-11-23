@@ -1,0 +1,10 @@
+site_name: Law Firm FAQ Page Playbook
+site_description: How to plan, write and mark up FAQ sections on law firm websites so they answer clients and show up in search and AI answers, by Legal Web Agency.
+site_author: Legal Web Agency
+site_url: https://law-firm-faq-page-playbook.readthedocs.io/
+theme:
+  name: readthedocs
+nav:
+  - FAQ playbook: index.md
+markdown_extensions:
+  - tables
